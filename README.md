@@ -22,4 +22,4 @@ dev = Development branch
 
 ## Notes
 
-If you want to contribute, email us at <mysandiego@sandiego.edu>.
+If you want to contribute, email me at <me@rommelrico.com>.
